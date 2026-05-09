@@ -1,6 +1,6 @@
 # AI POWERED CAREER GUIDANCE SYSTEM
 ## Overview
-The AI-Powered Career Navigation System is an intelligent web-based platform developed to help students and aspiring professionals discover the most suitable career paths based on their skills, interests, strengths, and career goals.
+The AI-Powered Career Guidance System is an intelligent web-based platform developed to help students and aspiring professionals discover the most suitable career paths based on their skills, interests, strengths, and career goals.
 
 The system leverages AI-driven recommendations, dynamic roadmap generation, and modern web technologies to simplify career planning and provide users with personalized guidance in an interactive and user-friendly environment.
 
@@ -156,14 +156,14 @@ This significantly enhanced usability and responsiveness.
 ---
 
 # Achievement
-- Patent approval received for the AI-Powered Career Navigation System
+- Patent approval received for the AI-Powered Career Guidance System for Personalised Career Pathways
 - Recognized for innovation and practical application
 - Successfully demonstrated practical AI integration in career guidance
 
 ---
 
 # Conclusion
-The AI-Powered Career Navigation System demonstrates how AI and modern web technologies can be combined to solve real-world challenges in education and career planning.
+The AI-Powered Career Guidance System demonstrates how AI and modern web technologies can be combined to solve real-world challenges in education and career planning.
 
 The project enhanced my practical experience in frontend development, API integration, responsive design, and AI-driven application development while strengthening my teamwork and problem-solving abilities.
 
